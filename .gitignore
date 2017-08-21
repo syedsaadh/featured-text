@@ -1,2 +1,8 @@
 node_modules/
 build/
+
+# IDE configurations
+.idea/
+
+# Server logs
+logs/
