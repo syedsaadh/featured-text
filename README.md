@@ -2,7 +2,7 @@
 
 ## Installation
 
-### PRE REQUISITES
+### Pre Requisites
 
 ```bash
 $ npm install canvas
