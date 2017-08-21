@@ -1,4 +1,4 @@
-# FEATURED IMAGES
+# FEATURED TEXT
 
 ## Installation
 
