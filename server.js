@@ -88,6 +88,6 @@ app.get('/avatar/:size/:bg/:name/:color?', function (req, res) {
         console.error(e);
     }
 })
-app.listen(3000, function () {
-    console.log('Example app listening on port 3000!')
+app.listen(4000, function () {
+    console.log('Bantar listening on port 4000!')
 })
