@@ -26,3 +26,6 @@ Windows | [Instructions on our wiki](https://github.com/Automattic/node-canvas/w
 
 ### Use
 ![http://www.bantar.tk/500/200/0cd/?txt=Awesome!<br>Api&fontSize=36](http://www.bantar.tk/500/200/0cd/?txt=Awesome!<br>Api&fontSize=36)
+```
+http://www.bantar.tk/500/200/0cd/?txt=Awesome!<br>Api&fontSize=36
+```
