@@ -23,3 +23,6 @@ Solaris | `pkgin install cairo pango pkg-config xproto renderproto kbproto xextp
 Windows | [Instructions on our wiki](https://github.com/Automattic/node-canvas/wiki/Installation---Windows)
 
 **El Capitan users:** If you have recently updated to El Capitan and are experiencing trouble when compiling, run the following command: `xcode-select --install`. Read more about the problem [on Stack Overflow](http://stackoverflow.com/a/32929012/148072).
+
+### Use
+![http://www.bantar.tk/500/200/0cd/?txt=Awesome!<br>Api&fontSize=36](http://www.bantar.tk/500/200/0cd/?txt=Awesome!<br>Api&fontSize=36)
