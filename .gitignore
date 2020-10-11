@@ -6,3 +6,6 @@ build/
 
 # Server logs
 logs/
+
+yarn*
+.vscode*
